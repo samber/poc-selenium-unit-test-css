@@ -1,0 +1,8 @@
+
+body {
+    font-weight: 900;
+}
+
+body > p {
+    color: white;
+}
